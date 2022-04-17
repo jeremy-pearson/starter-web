@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jeremy Pearson  jeremy.w.pearson@gmail.com  @vaderof5
 
 # THANKS
 
